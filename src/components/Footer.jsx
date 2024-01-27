@@ -5,7 +5,7 @@ import {
   AiFillLinkedin,
   AiOutlineArrowUp,
 } from "react-icons/ai";
-import imgFooter from "../assets/profileimg.jpg";
+import imgFooter from "../assets/imgfront.jpg";
 
 const Footer = () => {
   return (
