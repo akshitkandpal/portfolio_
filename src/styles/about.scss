@@ -1,0 +1,44 @@
+#about {
+    width: 100%;
+    height: 120vh;
+    padding: 8rem $p;
+    background-color: $color4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-heading{
+    font: 700 2.5rem $text2;
+    width: fit-content;
+    border-bottom: 1px solid $color6_1;
+    padding: 0.5rem;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.about-main{
+    width: 100%;
+    height: 100%;
+    background-color: $color1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-img{
+    background-color: #f0e0e0;
+    width: 200px;
+    margin: 0 0 0 50px;
+}
+
+.about-text{
+    letter-spacing: 2px;
+    margin: 20px 70px 20px 50px;
+    font-size: 0.9rem;
+    line-height: 160%;
+    text-align: center;
+    overflow: hidden; 
+}
