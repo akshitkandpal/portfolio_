@@ -3,6 +3,7 @@ import {
   AiFillCode,
   AiFillGithub,
   AiFillLinkedin,
+  AiFillInstagram,
   AiOutlineArrowUp,
 } from "react-icons/ai";
 import imgFooter from "../assets/imgfront.jpg";
@@ -32,6 +33,9 @@ const Footer = () => {
           </a>
           <a href=" https://leetcode.com/Akshit_kandpal74242/" target={"blank"}>
             <AiFillCode />
+          </a>
+          <a href="https://www.instagram.com/kandpal_akshit/" target={"blank"}>
+            <AiFillInstagram/>
           </a>
         </article>
       </aside>
