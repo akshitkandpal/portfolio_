@@ -7,12 +7,12 @@ const Testimonial = () => {
 
       <section>
         <TestimonialCard
-          name={"Abhishek"}
+          name={""}
           feedback={"Your Teaching skills are so good."}
         />
 
         <TestimonialCard
-          name={"Ramzi"}
+          name={""}
           feedback={
             "Wow what a portfolio, doesn't expected this to be on youtube!"
           }
@@ -30,7 +30,7 @@ const Testimonial = () => {
 const TestimonialCard = ({ name, feedback }) => (
   <article>
     <img
-      src="https://cdn-icons-png.flaticon.com/512/149/149071.png"
+      src=""
       alt="User"
     />
     <h4>{name}</h4>

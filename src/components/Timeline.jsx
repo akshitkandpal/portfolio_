@@ -13,6 +13,7 @@ const Timeline = () => {
             <h2>Masters in Computer Application</h2>
             <h4>Graphic Era Hill University ,  Bhimtal</h4>
             <p>July 2022 - till now</p>
+            <p> Sgpa: 8.75 </p>
             <p> </p>
           </div>
         </div>
@@ -45,7 +46,7 @@ const Timeline = () => {
             <h4>NNDM Beershiva School, Ranikhet</h4>
             <p>April 2018 - April 2019</p>
             <h3>Science(PCM)</h3>
-            <p>Percentage: 79.43%</p>
+            <p>Percentage: 79.13%</p>
           </div>
         </div>
         <div
