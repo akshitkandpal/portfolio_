@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 import { Toaster } from "react-hot-toast";
 import { useEffect, useState } from "react";
 import About from "./components/About";
-
+  
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [ratio, setRatio] = useState(window.innerWidth / window.innerHeight);
@@ -35,7 +35,7 @@ function App() {
       <Timeline />
       {/* <Services /> */}
       {/* <Testimonial /> */}
-      <Contact />
+      {/* <Contact /> */}
       <Footer />
       <Toaster />
     </>
