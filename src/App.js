@@ -35,7 +35,7 @@ function App() {
       <Timeline />
       {/* <Services /> */}
       {/* <Testimonial /> */}
-      {/* <Contact /> */}
+      <Contact />
       <Footer />
       <Toaster />
     </>
