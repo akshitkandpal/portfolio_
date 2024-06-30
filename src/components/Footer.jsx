@@ -16,9 +16,9 @@ const Footer = () => {
           src={imgFooter}
           alt="Founder"
         />
-
+        
         <h2>Akshit Kandpal</h2>
-        <p>©2023 Made by Akshit.</p>
+        <p>©2023 Made by Akshit .</p>
       </div>
 
       <aside>

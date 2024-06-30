@@ -12,7 +12,7 @@ const Timeline = () => {
           <div>
             <h2>Masters in Computer Application</h2>
             <h4>Graphic Era Hill University ,  Bhimtal</h4>
-            <p>July 2022 - till now</p>
+            <p>August 2022 - june 2024</p>
             <p> Sgpa: 8.85 </p>
             <p> </p>
           </div>
