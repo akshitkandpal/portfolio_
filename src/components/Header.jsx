@@ -25,7 +25,7 @@ export const HeaderPhone = ({ menuOpen, setMenuOpen }) => {
 
 const NavContent = ({ setMenuOpen }) => (
   <>
-    <h2>Portfolio-Akshit.</h2>
+    <h2>Portfolio.</h2>
     <div>
       <a onClick={() => setMenuOpen(false)} href="#home">
         Home
@@ -49,7 +49,7 @@ const NavContent = ({ setMenuOpen }) => (
         Contact
       </a>
     </div>
-    <a href="https://drive.google.com/file/d/1Bjoz8ACNwYcLo_bxlvvg92Vv30mJ_r_V/view?usp=drivesdk" target="blank">
+    <a href="https://drive.google.com/file/d/1PSjkP8HAzKC1V7WEVB6p6AFpNuIwhHVV/view?usp=drivesdk" target="blank">
       <button>Resume</button>
     </a>
   </>

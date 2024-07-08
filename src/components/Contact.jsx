@@ -15,7 +15,7 @@ const Contact = () => {
     e.preventDefault();
     setDisableBtn(true);
     try {
-      await addDoc(collection(db, "contacts"), {
+      await addDoc(collection(db, "Contact"), {
         name,
         email,
         message,
